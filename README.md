@@ -6,7 +6,7 @@ Watch the demo video to understand the functionality of the AutoML project:
 
 ## 📁 Project Overview
 
-This project implements an **Automated Machine Learning (AutoML)** pipeline to streamline the process of model selection, hyperparameter tuning, and evaluation. The goal is to reduce manual effort in building high-performing machine learning models by automating repetitive and complex tasks.
+This project implements an **Automated Machine Learning (AutoML)** pipeline to streamline the process of Data Preprocessing, Exploratory Data Analysis (EDA), model selection, hyperparameter tuning, and evaluation. The goal is to reduce manual effort in building high-performing machine learning models by automating repetitive and complex tasks.
 
 ---
 
@@ -14,7 +14,7 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 
 - Automated preprocessing (handling missing values, encoding, scaling)
 - Model selection from multiple algorithms
-- Hyperparameter tuning using GridSearchCV/RandomizedSearch/Optuna
+- Hyperparameter tuning using GridSearchCV/RandomizedSearch
 - Evaluation using key performance metrics (Accuracy, F1-Score, RMSE, etc.)
 - Final model deployment-ready
 ##### Note: For now this project is mainly focus on preprocessing and (EDA), Model Traninig and Evalution is for testing purpose  
