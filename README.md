@@ -45,19 +45,20 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
    
 Install dependencies:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 
 
 
-✅ Future Improvements
+## ✅ Future Improvements
 Add model explainability using SHAP or LIME
 
 Implement real-time prediction via Flask or Streamlit
 
 Add support for regression and classification toggle
 
-🙋‍♂️ Author
+### 🙋‍♂️ Author
 Shashank Bhandari
 📍 Sharjah, UAE
 📫 shashankbhandari467@gmail.com
