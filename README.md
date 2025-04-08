@@ -62,4 +62,5 @@ Add support for regression and classification toggle
 Shashank Bhandari
 📍 Sharjah, UAE
 📫 shashankbhandari467@gmail.com
-🔗 LinkedIn | GitHub
+🔗 LinkedIn link(https://www.linkedin.com/in/shashank-bhandari-1b633b1ab) 
+| GitHub
