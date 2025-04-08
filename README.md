@@ -52,11 +52,13 @@ pip install -r requirements.txt
 
 
 ## ✅ Future Improvements
-Add model explainability using SHAP or LIME
+Real time model selection basedd on the datset
 
-Implement real-time prediction via Flask or Streamlit
+Implement real-time prediction via Streamlit
 
 Add support for regression and classification toggle
+
+
 
 ### 🙋‍♂️ Author
 Shashank Bhandari
