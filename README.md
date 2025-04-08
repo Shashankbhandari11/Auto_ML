@@ -6,7 +6,7 @@ Watch the demo video to understand the functionality of the AutoML project:
 
 ## 📁 Project Overview
 
-This project implements an **Automated Machine Learning (AutoML)** pipeline to streamline the process of Data Preprocessing, Exploratory Data Analysis (EDA), model selection, hyperparameter tuning, and evaluation. The goal is to reduce manual effort in building high-performing machine learning models by automating repetitive and complex tasks.
+This project implements an **Automated Machine Learning (AutoML)** pipeline to streamline the process of Data Preprocessing, Exploratory Data Analysis (EDA), model selection, hyperparameter tuning, and evaluation. The goal is to reduce manual effort in building high-performing machine learning models by automating repetitive and complex tasks. It is build in the framework called streamlit.
 
 ---
 
