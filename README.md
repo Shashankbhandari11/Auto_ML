@@ -1,6 +1,8 @@
 #  AutoML Project: Automated Machine Learning for Model Selection & Optimization
 
-[Watch the demo video](https://github.com/Shashankbhandari11/Auto_ML/raw/main/Auto_ML_demo.mp4)
+Watch the demo video to understand the functionality of the AutoML project:
+
+[![Watch the demo video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/_2tOT2Au5Ek)
 
 ## 📁 Project Overview
 
