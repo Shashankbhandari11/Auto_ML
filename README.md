@@ -1,5 +1,7 @@
 #  AutoML Project: Automated Machine Learning for Model Selection & Optimization
 
+[Watch the demo video](https://github.com/Shashankbhandari11/Auto_ML/raw/main/Auto_ML_demo.mp4)
+
 ## 📁 Project Overview
 
 This project implements an **Automated Machine Learning (AutoML)** pipeline to streamline the process of model selection, hyperparameter tuning, and evaluation. The goal is to reduce manual effort in building high-performing machine learning models by automating repetitive and complex tasks.
