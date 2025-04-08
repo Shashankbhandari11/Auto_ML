@@ -46,10 +46,11 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
    ```bash
    git clone https://github.com/Shashankbhandari11/automl-project.git
    
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+2. Install dependencies:
+   
+   ```bash
+      pip install -r requirements.txt
+   ```
 
 
 
