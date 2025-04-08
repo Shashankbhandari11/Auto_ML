@@ -2,7 +2,7 @@
 
 Watch the demo video to understand the functionality of the AutoML project:
 
-[![Watch the demo video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/_2tOT2Au5Ek)
+[![Watch the demo video](https://img.youtube.com/vi/_2tOT2Au5Ek/0.jpg)](https://youtu.be/_2tOT2Au5Ek)
 
 ## 📁 Project Overview
 
