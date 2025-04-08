@@ -41,7 +41,6 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 
    ```bash
    git clone https://github.com/Shashankbhandari11/automl-project.git
-   cd automl-project```
    
 Install dependencies:
 ```bash
