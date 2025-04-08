@@ -49,8 +49,9 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 2. Install dependencies:
    
    ```bash
-      pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
+3. Run the project
 
 
 
