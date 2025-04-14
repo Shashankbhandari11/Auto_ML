@@ -4,7 +4,7 @@ Watch the demo video to understand the functionality of the AutoML project:
 
 [![Watch the demo video](https://img.youtube.com/vi/_2tOT2Au5Ek/0.jpg)](https://youtu.be/_2tOT2Au5Ek)
 
-## 📁 Project Overview
+## Project Overview
 
 This project implements an **Automated Machine Learning (AutoML)** pipeline to streamline the process of Data Preprocessing, Exploratory Data Analysis (EDA), model selection, hyperparameter tuning, and evaluation. The goal is to reduce manual effort in building high-performing machine learning models by automating repetitive and complex tasks. It is build in the framework called streamlit.
 
@@ -20,7 +20,7 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 ##### Note: For now this project is mainly focus on preprocessing and (EDA), Model Traninig and Evalution is for testing purpose  
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Scikit-learn**
@@ -30,7 +30,7 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Name:** [Insert dataset name here]
 - **Source:** [Link to dataset or source]
@@ -56,7 +56,7 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 
 
 
-## ✅ Future Improvements
+##  Future Improvements
 Real time model selection basedd on the datset
 
 Implement real-time prediction via Streamlit
@@ -65,11 +65,11 @@ Add support for regression and classification toggle
 
 
 
-### 🙋‍♂️ Author
+###  Author
 Shashank Bhandari
-📍 Sharjah, UAE
+ Sharjah, UAE
 
-📫 shashankbhandari467@gmail.com
+ shashankbhandari467@gmail.com
 
 🔗 LinkedIn link(https://www.linkedin.com/in/shashank-bhandari-1b633b1ab) 
 
