@@ -4,6 +4,8 @@ Watch the demo video to understand the functionality of the AutoML project:
 
 [![Watch the demo video](https://img.youtube.com/vi/_2tOT2Au5Ek/0.jpg)](https://youtu.be/_2tOT2Au5Ek)
 
+## Here is the link for the testing deployed on streamlit Cloud
+(https://automl11.streamlit.app/)
 ## Project Overview
 
 This project implements an **Automated Machine Learning (AutoML)** pipeline to streamline the process of Data Preprocessing, Exploratory Data Analysis (EDA), model selection, hyperparameter tuning, and evaluation. The goal is to reduce manual effort in building high-performing machine learning models by automating repetitive and complex tasks. It is build in the framework called streamlit.
