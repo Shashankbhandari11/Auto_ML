@@ -10,7 +10,7 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 
 ---
 
-## 🔧 Features
+## Features
 
 - Automated preprocessing (handling missing values, encoding, scaling)
 - Model selection from multiple algorithms
@@ -39,7 +39,7 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 
@@ -71,5 +71,5 @@ Shashank Bhandari
 
  shashankbhandari467@gmail.com
 
-🔗 LinkedIn link(https://www.linkedin.com/in/shashank-bhandari-1b633b1ab) 
+ LinkedIn link(https://www.linkedin.com/in/shashank-bhandari-1b633b1ab) 
 
