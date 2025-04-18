@@ -17,7 +17,7 @@ This project implements an **Automated Machine Learning (AutoML)** pipeline to s
 - Hyperparameter tuning using GridSearchCV/RandomizedSearch
 - Evaluation using key performance metrics (Accuracy, F1-Score, RMSE, etc.)
 - Final model deployment-ready
-##### Note: For now this project is mainly focus on preprocessing and (EDA), Model Traninig and Evalution is for testing purpose  
+##### Note: For now this project is mainly focus on preprocessing and (EDA), Model Traninig and Evalution is only for testing purpose  
 ---
 
 ##  Technologies Used
